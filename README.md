@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# React site called GPT-3 with fully responsive and modern design
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Below this you can see the screenshots of the actual site (https://reactgptthree.netlify.app) itself:
+Navbar and Header: ![Navbar plus Header](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/b5eea7a7-40db-4b29-bd8d-33f481a17dfb)
 
-## Available Scripts
+What is GPT-3 Section: ![WhatIsGPT3](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/837c88dd-9299-489e-a4e2-1d0e19f52b69)
 
-In the project directory, you can run:
+Features Section: ![Features](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/fbdb099c-488e-44cc-b256-75a31ed941ce)
 
-### `npm start`
+CTA Section: ![CTA](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/034a0284-498a-462c-b5ec-17f3d2ae0a08)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Article/Blog Section: ![Article](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/0a001207-6f31-488d-8472-b79a078f6708)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Footer: ![Footer](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/c559ca4f-69fb-4f9e-9c7c-3714b0dc55e3)
 
-### `npm test`
+How the site is looking on the tablet devices: 
+Tablet Navbar and Header: ![Tablet Navbar plus Header](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/bfbc797c-9a39-4016-b082-3fdb0cebe77a)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Tablet What is GPT-3 Section: ![Tablet WhatIsGPT3](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/52596c2e-76ca-4239-b653-cfdbe67d186f)
 
-### `npm run build`
+Tablet Features Section: ![Tablet Features](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/e7222e00-808c-4470-9d9b-735d55e49bd4)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Tablet CTA Section: ![Tablet CTA](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/5f0fd219-7066-4add-aedd-2c0ea1f13304)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Tablet Article/Blog Section and Footer: 
+![Tablet Article](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/00c1220f-401e-4ad4-98b4-dfbb72d314d9)
+![Tablet Article (2) and Footer](https://github.com/StanislavPliev/React-GPT3-SPA/assets/123414192/e65086cf-1d4a-4e46-ba8b-7e2977749e7c)
